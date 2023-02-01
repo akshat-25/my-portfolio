@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/my-portfolio/static/css/main.02a42c66.css",
+    "main.js": "/my-portfolio/static/js/main.fc2b5dad.js",
+    "static/media/nbweb.png": "/my-portfolio/static/media/nbweb.78c8e0de1b7fb4367360.png",
+    "static/media/newsbuddy.jpg": "/my-portfolio/static/media/newsbuddy.fc418cae8e7c3a398720.jpg",
+    "static/media/fdb.png": "/my-portfolio/static/media/fdb.bd9e4e5ccba6ba7b73b9.png",
+    "static/media/todo.jpg": "/my-portfolio/static/media/todo.2f13d1c855f0a1c67c00.jpg",
+    "static/media/responsive.png": "/my-portfolio/static/media/responsive.255a7374f6855b1e5a2b.png",
+    "static/media/textutils.png": "/my-portfolio/static/media/textutils.870b8e11e54d550d10c9.png",
+    "static/media/cpp.png": "/my-portfolio/static/media/cpp.6e6411d19aa56259d6cc.png",
+    "static/media/flutter.jpg": "/my-portfolio/static/media/flutter.2597aa88a9aa7860705d.jpg",
+    "static/media/githubFinder.png": "/my-portfolio/static/media/githubFinder.38e53a43e5e27ada503d.png",
+    "static/media/react.png": "/my-portfolio/static/media/react.0cf951a69d8e58f83f9d.png",
+    "static/media/github.png": "/my-portfolio/static/media/github.3b9e32903aa89111875d.png",
+    "static/media/html.png": "/my-portfolio/static/media/html.2ba4fabc69a89a8f71e6.png",
+    "static/media/tailwind.png": "/my-portfolio/static/media/tailwind.e47ac876b8d4d0bba47a.png",
+    "static/media/css.png": "/my-portfolio/static/media/css.69a82c2d9e45c933a9cb.png",
+    "static/media/javascript.png": "/my-portfolio/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
+    "index.html": "/my-portfolio/index.html",
+    "main.02a42c66.css.map": "/my-portfolio/static/css/main.02a42c66.css.map",
+    "main.fc2b5dad.js.map": "/my-portfolio/static/js/main.fc2b5dad.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.02a42c66.css",
+    "static/js/main.fc2b5dad.js"
+  ]
+}
