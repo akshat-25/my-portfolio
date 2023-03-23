@@ -29,10 +29,15 @@ function Navbar() {
     },
   ];
   return (
-    <div className="top-0 flex justify-between items-center w-full h-20 px-4 bg-black text-white">
-      <div>
-        <img className="ml-2 mt-2" src={akshat} alt="" srcset="" />
-      </div>
+    <div className="top-0 flex justify-between items-center w-full h-20 px-4  bg-black text-white">
+      <Link to="home">
+        <img
+          className="ml-2 mt-2 cursor-pointer"
+          src={akshat}
+          alt=""
+          srcset=""
+        />
+      </Link>
 
       <ul className="hidden md:flex">
         {links.map(({ id, link }) => (
